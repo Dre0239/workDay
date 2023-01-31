@@ -1,4 +1,4 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Work Day Scheduler
 
 ## Task
 
@@ -24,24 +24,14 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-```
-
 The following animation demonstrates the application functionality:
-
-<!-- @TODO: create ticket to review/update image) -->
-
 
 <img src="./assets/Work Day Piic.gif" alt ="pic of app" title="Work Day Secheler" />
 
 ## Review
 
-You are required to submit the following for review:
+## Requirments for review:
 
 - The URL of the deployed application
 
 - The URL of the GitHub repository, with a unique name and a README describing the project
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-```
