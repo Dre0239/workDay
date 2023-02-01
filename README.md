@@ -34,4 +34,7 @@ It is designed for employees who have a busy schedule. I want to add important e
 
 - The URL of the deployed application
 
+  https://dre0239.github.io/workDay/
+
 - The URL of the GitHub repository, with a unique name and a README describing the project
+  https://github.com/Dre0239/workDay
