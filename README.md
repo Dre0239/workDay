@@ -26,7 +26,7 @@ It is designed for employees who have a busy schedule. I want to add important e
 
 ## The following animation demonstrates the application functionality:
 
-<img src="./assets/Work Day Piic.jpg" alt ="pic of app" title="Work Day Secheler" />
+<img src="./Assets/workDay.png" alt ="pic of app" title="Work Day Secheler" />
 
 ## Review
 
