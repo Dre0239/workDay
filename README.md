@@ -24,7 +24,7 @@ It is designed for employees who have a busy schedule. I want to add important e
 - WHEN I refresh the page
 - THEN the saved events persist
 
-## The following animation demonstrates the application functionality:
+## The following pic demonstrates the application functionality:
 
 <img src="./Assets/workDay.png" alt ="pic of app" title="Work Day Secheler" />
 
